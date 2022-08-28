@@ -1,6 +1,7 @@
 ﻿
-Console.WriteLine("{0}", new String('=', 50));
+Console.WriteLine("{0}", new String('=', 50)); 
 Console.WriteLine("Aula 01");
+// Outra alteração realizada por Leonardo
 
 // Exercícios
 
