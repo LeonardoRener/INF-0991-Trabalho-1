@@ -2,9 +2,10 @@
 Console.WriteLine("{0}", new String('=', 50)); 
 Console.WriteLine("Aula 01");
 // Outra alteração realizada por Leonardo
+//Outra alteração realizada por Patrick.
 
 // Exercícios
-
+//Alteração realizada por Patrick.
 /* 1) Faça um programa que imprima o primeiro número, entre 1 e 1000, que seja divisível 
 por 7, 13, 17. Implemente sua solução com o comando break.*/
 for(int i = 1; i <= 1000; i++)
