@@ -39,5 +39,5 @@ for(int i = 1; i <= 1000; i++)
 }
 
 Console.WriteLine("Total da soma = {0} - versao versões com o comando continue.", result);
-
-Console.WriteLine("{0}", new String('=', 50));
+// Alteração realizada por Leonardo
+Console.WriteLine("{0}", new String('=', 50));R
