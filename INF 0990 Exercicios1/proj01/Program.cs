@@ -14,7 +14,7 @@ for(int i = 1; i <= 1000; i++)
         break;
     }
 }
-
+// Alteração realizada por Erick Felino
 /* 2) Faça um programa que some todos os números de 1 até 1000, exceto os múltiplo de 5. 
 Implemente duas versões: com e sem o comando continue.*/
 int result = 0;
