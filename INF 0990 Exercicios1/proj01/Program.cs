@@ -1,9 +1,10 @@
-﻿
+//Alteração realizada por Erik Goto
 Console.WriteLine("{0}", new String('=', 50)); 
 Console.WriteLine("Aula 01");
 // Outra alteração realizada por Leonardo
 //Outra alteração realizada por Patrick.
 // Outra alteração realizada por Erick Felino
+//Outra alteração feita por Erik GOto
 
 // Exercícios
 //Alteração realizada por Patrick.
