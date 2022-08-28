@@ -1,0 +1,30 @@
+C:\Users\leona\OneDrive\Documentos\Curso Tecnologias Microsoft\C#\Teste\proj01\bin\Debug\net6.0\proj01.exe
+C:\Users\leona\OneDrive\Documentos\Curso Tecnologias Microsoft\C#\Teste\proj01\bin\Debug\net6.0\proj01.deps.json
+C:\Users\leona\OneDrive\Documentos\Curso Tecnologias Microsoft\C#\Teste\proj01\bin\Debug\net6.0\proj01.runtimeconfig.json
+C:\Users\leona\OneDrive\Documentos\Curso Tecnologias Microsoft\C#\Teste\proj01\bin\Debug\net6.0\proj01.dll
+C:\Users\leona\OneDrive\Documentos\Curso Tecnologias Microsoft\C#\Teste\proj01\bin\Debug\net6.0\proj01.pdb
+C:\Users\leona\OneDrive\Documentos\Curso Tecnologias Microsoft\C#\Teste\proj01\obj\Debug\net6.0\proj01.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Documentos\Curso Tecnologias Microsoft\C#\Teste\proj01\obj\Debug\net6.0\proj01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Documentos\Curso Tecnologias Microsoft\C#\Teste\proj01\obj\Debug\net6.0\proj01.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Documentos\Curso Tecnologias Microsoft\C#\Teste\proj01\obj\Debug\net6.0\proj01.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Documentos\Curso Tecnologias Microsoft\C#\Teste\proj01\obj\Debug\net6.0\proj01.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Documentos\Curso Tecnologias Microsoft\C#\Teste\proj01\obj\Debug\net6.0\proj01.dll
+C:\Users\leona\OneDrive\Documentos\Curso Tecnologias Microsoft\C#\Teste\proj01\obj\Debug\net6.0\refint\proj01.dll
+C:\Users\leona\OneDrive\Documentos\Curso Tecnologias Microsoft\C#\Teste\proj01\obj\Debug\net6.0\proj01.pdb
+C:\Users\leona\OneDrive\Documentos\Curso Tecnologias Microsoft\C#\Teste\proj01\obj\Debug\net6.0\proj01.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Documentos\Curso Tecnologias Microsoft\C#\Teste\proj01\obj\Debug\net6.0\ref\proj01.dll
+C:\Users\leona\Cursos\Tecnologias_Microsoft\C#\Teste\proj01\bin\Debug\net6.0\proj01.exe
+c:\Users\leona\Cursos\Tecnologias_Microsoft\C#\Teste\proj01\bin\Debug\net6.0\proj01.deps.json
+c:\Users\leona\Cursos\Tecnologias_Microsoft\C#\Teste\proj01\bin\Debug\net6.0\proj01.runtimeconfig.json
+C:\Users\leona\Cursos\Tecnologias_Microsoft\C#\Teste\proj01\bin\Debug\net6.0\proj01.dll
+C:\Users\leona\Cursos\Tecnologias_Microsoft\C#\Teste\proj01\bin\Debug\net6.0\proj01.pdb
+C:\Users\leona\Cursos\Tecnologias_Microsoft\C#\Teste\proj01\obj\Debug\net6.0\proj01.csproj.AssemblyReference.cache
+C:\Users\leona\Cursos\Tecnologias_Microsoft\C#\Teste\proj01\obj\Debug\net6.0\proj01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Cursos\Tecnologias_Microsoft\C#\Teste\proj01\obj\Debug\net6.0\proj01.AssemblyInfoInputs.cache
+C:\Users\leona\Cursos\Tecnologias_Microsoft\C#\Teste\proj01\obj\Debug\net6.0\proj01.AssemblyInfo.cs
+C:\Users\leona\Cursos\Tecnologias_Microsoft\C#\Teste\proj01\obj\Debug\net6.0\proj01.csproj.CoreCompileInputs.cache
+C:\Users\leona\Cursos\Tecnologias_Microsoft\C#\Teste\proj01\obj\Debug\net6.0\proj01.dll
+C:\Users\leona\Cursos\Tecnologias_Microsoft\C#\Teste\proj01\obj\Debug\net6.0\refint\proj01.dll
+C:\Users\leona\Cursos\Tecnologias_Microsoft\C#\Teste\proj01\obj\Debug\net6.0\proj01.pdb
+c:\Users\leona\Cursos\Tecnologias_Microsoft\C#\Teste\proj01\obj\Debug\net6.0\proj01.genruntimeconfig.cache
+c:\Users\leona\Cursos\Tecnologias_Microsoft\C#\Teste\proj01\obj\Debug\net6.0\ref\proj01.dll
