@@ -3,6 +3,7 @@ Console.WriteLine("{0}", new String('=', 50));
 Console.WriteLine("Aula 01");
 // Outra alteração realizada por Leonardo
 //Outra alteração realizada por Patrick.
+// Outra alteração realizada por Erick Felino
 
 // Exercícios
 //Alteração realizada por Patrick.
@@ -16,7 +17,7 @@ for(int i = 1; i <= 1000; i++)
         break;
     }
 }
-
+// Alteração realizada por Erick Felino
 /* 2) Faça um programa que some todos os números de 1 até 1000, exceto os múltiplo de 5. 
 Implemente duas versões: com e sem o comando continue.*/
 int result = 0;
